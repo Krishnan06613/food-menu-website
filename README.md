@@ -15,6 +15,7 @@ Technologies Used
 
 *HTML5
 *CSS3
-*Flexbox
+*Flexbox 
+LinkedIn: www.linkedin.com/in/krishnan06
 
 Created as a front-end development practice project to improve HTML and CSS skills.
