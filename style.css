@@ -1,0 +1,175 @@
+    * {
+        padding: 0;
+        margin: 0;
+    }
+
+
+    body {
+        font-family: 'Times New Roman', Times, serif;
+        margin: 40px;
+    }
+
+
+    .title_one {
+        background-color: black;
+        color: #F5DE98;
+        padding: 20px;
+        text-align: center;
+    }
+
+
+    .title_one__desc a {
+        text-decoration: none;
+        color: #F7454A;
+    }
+
+
+    .title_one__desc a:hover {
+        color: blue;
+        transition-duration: unset;
+    }
+
+
+
+
+    .food {
+        margin-top: 0px;
+        display: flex;
+        gap: 30px;
+        align-items: center;
+        
+
+    }
+
+
+    .food__one {
+        background-color: #F5DE98;
+        display: inline-block;
+        height: 300px;
+        width: 200px;
+        padding: 50px;
+        border-radius: 15px;
+        margin-top: 50px;
+
+    }
+
+    .food__two {
+        background-color: #F5DE98;
+        display: inline-block;
+        height: 300px;
+        width: 200px;
+        padding: 50px;
+        border-radius: 15px;
+        margin-top: 50px;
+
+    }
+
+    .food__three {
+        background-color: #F5DE98;
+        display: inline-block;
+        height: 300px;
+        width: 200px;
+        padding: 50px;
+        border-radius: 15px;
+        margin-top: 50px;
+    }
+
+    .food__four {
+        background-color: #F5DE98;
+        display: inline-block;
+        height: 300px;
+        width: 200px;
+        padding: 50px;
+        border-radius: 15px;
+        margin-top: 50px;
+    }
+
+    .table {
+        background-color: black;
+     
+        color: white;
+        margin-top: 40px;
+        padding: 30px;
+        
+    }
+
+    .button {
+        background-color: orangered;
+        border: none;
+        margin-top: 30px;
+        height: 30px;
+        width: 100px;
+        border-radius: 20px;
+        
+    }
+
+
+
+
+    .order1 {
+    background-color: orangered;
+    display: block;
+    margin: 10px auto; /* centers the button */
+    border: none;
+    padding:  8px 15px;
+    border-radius: 20px;
+    cursor: pointer; 
+    margin-top: ; /* pushes button to bottom */
+    align-self: center;
+    margin-bottom: 10px;
+}
+
+
+
+    .order2{
+    background-color: orangered;
+    display: block;
+    margin: 10px auto; /* centers the button */
+    border: none;
+    padding:  8px 15px;
+    border-radius: 20px;
+    cursor: pointer; 
+    margin-top: ; /* pushes button to bottom */
+    align-self: center;
+    margin-top: 28px;
+}
+
+
+    .order3{
+    background-color: orangered;
+    display: block;
+    margin: 10px auto; /* centers the button */
+    border: none;
+    padding:  8px 15px;
+    border-radius: 20px;
+    cursor: pointer; 
+    margin-top: ; /* pushes button to bottom */
+    align-self: center;
+    margin-top: 45px;
+}
+
+
+
+    .order4{
+    background-color: orangered;
+    display: block;
+    margin: 10px auto; /* centers the button */
+    border: none;
+    padding:  8px 15px;
+    border-radius: 20px;
+    cursor: pointer; 
+    margin-top: ; /* pushes button to bottom */
+    align-self: center;
+    margin-top: 45px;
+}
+
+
+
+
+
+
+
+
+
+
+
